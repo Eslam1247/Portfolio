@@ -1,5 +1,5 @@
 My Porfolio
 <div>
-<img src = "images/download(1).png" style = "width": 200px "height" = 200px>
+      <img src="images/download (1).png" style="height: 200px;" width="200px">
 
 </div>
